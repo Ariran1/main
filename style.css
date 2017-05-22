@@ -1,3 +1,4 @@
+
 h1,
 h2,
 h3,
@@ -16,14 +17,14 @@ p {
   display: inline-block;
   vertical-align: middle;
 }
-.contentWidth {
+.mainWidthFsas {
   margin-left: auto;
   margin-right: auto;
   position: relative;
   width: 1200px;
 }
 @media screen and (max-width: 1200px) {
-  .contentWidth {
+  .mainWidthFsas {
     width: auto;
   }
 }
